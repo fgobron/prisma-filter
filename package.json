@@ -1,6 +1,6 @@
 {
   "name": "prisma-filter",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "Prisma filter ES6 module - Clients list filter tool",
   "author": {
     "name": "Frédéric GOBRON",
