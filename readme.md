@@ -1,5 +1,5 @@
 # Prisma filter es6 module
-Independant module for filtering Prisma media clients list sample
+Independant module for filtering Prisma Media clients list sample
 
 ## Prerequisites
 Successfully tested with
