@@ -1,7 +1,7 @@
 var babel = require('gulp-babel'),
     sourcemaps = require('gulp-sourcemaps'),
     gulp = require('gulp'),
-    es6Path = 'js/*.js',
+    es6Path = 'js/**/*.js',
     compilePath = 'dist';
 
 gulp.task('babel', function () {

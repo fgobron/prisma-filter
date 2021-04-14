@@ -17,13 +17,23 @@ Successfully tested with
 
     `npm install`
 
-3. Run Gulp:
+3. Run Gulp for Babel transpilation and watcher.
 
     `gulp`
 
-4. Run the server, launch the browser, and transpile the ES6 to ES5 using Babel
+4. Run in another terminal the server, launch the browser.
 
     `npm test`
+
+URL examples :
+
+// brown eye color and age between 20 and 25 filters
+
+<http://localhost:3000/?eyeColor=brown&ageRange=20-25>
+
+// blue eye color and age between 26 and 30 filters
+
+<http://localhost:3000/?eyeColor=blue&ageRange=26-30>
 
 ## Author
 

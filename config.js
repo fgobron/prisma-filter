@@ -1,11 +1,11 @@
 System.config({
     map: {
-      main: 'dist' //Map "index" to the "dist" folder
+      main: 'dist' //Map "main" to the "dist" folder
     },
     packages: {
       //Define settings for loading files in "dist"
       dist: {
-        main: 'index.js',
+        main: 'test.js',
         format: 'system',
         defaultExtension: 'js'
       }
