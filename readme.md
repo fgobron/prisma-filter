@@ -43,7 +43,7 @@ URL examples :
 2. Import module
 ``import generateFilteredList from 'prisma-filter/js/index';``
 
-3. Call default methode
+3. Call default function
 ``generateFilteredList();``
 
 ## Author
