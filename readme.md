@@ -35,6 +35,17 @@ URL examples :
 
 <http://localhost:3000/?eyeColor=blue&ageRange=26-30>
 
+## Module usage
+
+1. Add Package dependency
+"prisma-filter": "git+https://github.com/fgobron/prisma-filter.git#master"
+
+2. Import module
+``import generateFilteredList from 'prisma-filter/js/index';``
+
+3. Call default methode
+``generateFilteredList();``
+
 ## Author
 
 **Frédéric GOBRON**
