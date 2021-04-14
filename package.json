@@ -1,0 +1,26 @@
+{
+  "name": "prisma-filter",
+  "version": "0.0.5",
+  "description": "Prisma filter ES6 module - Clients list filter tool",
+  "author": {
+    "name": "Frédéric GOBRON",
+    "url": "http://alternetdev.net/"
+  },
+  "repository": {
+    "url": "https://github.com/fgobron/prisma-filter"
+  },
+  "scripts": {
+    "test": "lite-server"
+  },
+  "dependencies": {
+    "systemjs": "^0.20.5"
+  },
+  "devDependencies": {
+    "lite-server": "2.2.2",
+    "gulp": "^3.9.1",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-plugin-transform-es2015-modules-systemjs": "6.22.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-sourcemaps": "^2.4.1"
+  }
+}
